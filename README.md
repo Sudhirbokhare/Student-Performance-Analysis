@@ -59,7 +59,7 @@ This project analyzes student academic performance using Python, Pandas, Matplot
 
 ## How to Run
 
-1. Clone the repository
+1. the repository
 
 ```bash
 https://github.com/Sudhirbokhare/Student-Performance-Analysis.git
